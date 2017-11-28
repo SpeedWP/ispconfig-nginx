@@ -1,5 +1,8 @@
 # ispconfig-nginx
 ispconfig-nginx installation helper
+cd /tmp
+git clone https://github.com/SpeedWP/ispconfig-nginx.git
+
 
 # Debian jessie + ISPConfig 3.1.2 
 
